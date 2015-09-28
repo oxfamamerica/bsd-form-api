@@ -1,4 +1,4 @@
-# OA-BSD
+# BSD Form API
 An example of using the new Blue State Digital form api found at: 
 
 http://tools.bluestatedigital.com/kb/entry/new-signup-api/
